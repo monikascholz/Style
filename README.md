@@ -2,4 +2,4 @@
 style file for matplotlib
 
 Official UofC colors and some nice settings for axes. 
-customplots.py has some plotting routines
+Some useful shortcuts for histogramming and stats plot (Box- Bar and Violinplot).
